@@ -45,9 +45,9 @@ Standard Data Quality Dimensions:
 - Timeliness : Is your information available when you need it?
 
 -----
-### Tools
+### Tools 
 
-List of tools that can be used to perform the task:
+List of tools( to view and analyse the data) that can be used to perform the task:
 
 - Excel
 
