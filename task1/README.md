@@ -22,6 +22,29 @@ To perform preliminary data exploration and identify ways to improve the quality
 To draft an email to the client identifying the data quality issues and strategies to mitigate these issues by quoting referencing to the  ‘Data Quality Framework Table’.
 
 -----
+
+### Data Quality Framework Table
+
+Standard Data Quality Dimensions:
+
+- Accuracy : How well does a piece of information reflect reality?
+
+
+- Completeness : Does it fulfill your expectations of what’s comprehensive?
+
+
+- Uniqueness : Is this the only instance in which this information appears in the database?
+
+
+- Validity : Is information in a specific format, does it follow business rules, or is it in an unusable format?
+
+
+- Consistency : Does information stored in one place match relevant data stored elsewhere?
+
+
+- Timeliness : Is your information available when you need it?
+
+-----
 ### Tools
 
 List of tools that can be used to perform the task:
