@@ -15,7 +15,7 @@ Visualisations such as interactive dashboards often help us highlight key findin
 
 3. To deliver a maximum of 3 dashboard views/tabs, with creativity in the layout and presentation. 
 
-Important things to be kept in mind in business context during presention of findings:
+Some important things to be kept in mind in business context during presention of findings:
 
 - What are the trends in the underlying data?
 
